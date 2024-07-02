@@ -1,0 +1,15 @@
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\bin\Debug\net8.0\Tarefa _final.exe
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\bin\Debug\net8.0\Tarefa _final.deps.json
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\bin\Debug\net8.0\Tarefa _final.runtimeconfig.json
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\bin\Debug\net8.0\Tarefa _final.dll
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\bin\Debug\net8.0\Tarefa _final.pdb
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.AssemblyInfo.cs
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.sourcelink.json
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.dll
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\refint\Tarefa _final.dll
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.pdb
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\Tarefa _final.genruntimeconfig.cache
+C:\Users\adm\Desktop\Atividade_final\Tarefa _final\obj\Debug\net8.0\ref\Tarefa _final.dll

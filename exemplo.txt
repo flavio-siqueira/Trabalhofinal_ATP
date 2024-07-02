@@ -1,0 +1,4 @@
+alface_roxo,34
+alcatra,49
+peixe,7
+frango,5
